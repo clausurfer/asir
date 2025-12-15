@@ -1,6 +1,10 @@
 Hola, esto es una prueba para IAW.
 Hola, esto es una prueba para  la actividad 2.
+<<<<<<< HEAD
 
 
 
 Nuestro fichero es el bueno, no nos gustan los conflictos.
+=======
+Estamos creando un conflicto
+>>>>>>> 32eac293d53023fcd6055d34ef891577f5915d45
